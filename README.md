@@ -1,11 +1,11 @@
 # Customer-Behavior-Analysis
 Data Analytics projects showing Customer Behavior using python ,SQL , Power BI
 
-Here’s a **professional, recruitment-friendly README template** for your data analysis project using the structure you described. I’ve formatted it to be clear, concise, and showcase your skills:
+
 
 ---
 
-# **Data Analysis Project: [Project Title]**
+# **Data Analysis Project: [Customer Behavior Analysis]**
 
 ## **Overview**
 
@@ -118,9 +118,4 @@ This project demonstrates end-to-end data analysis and visualization workflow, s
 
 This project highlights my **end-to-end data analysis skills**, including data preprocessing, database management, SQL querying, interactive dashboard creation, and business reporting. It demonstrates the ability to **turn raw data into actionable insights** and present them clearly to stakeholders.
 
----
-
-I can also create a **version with proper Markdown formatting for GitHub** with badges for Python, PostgreSQL, and Power BI to make it **even more recruitment-friendly and professional**.
-
-Do you want me to do that version too?
 
